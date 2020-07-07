@@ -386,4 +386,8 @@
     <!-- Min refresh rate -->
     <string name="min_refresh_rate_title">Bildwiederholfrequenz</string>
 
+    <!-- SBC HD (Dual Channel) priority -->
+    <string name="sbc_hd_priority_title">SBC HD Audio</string>
+    <string name="sbc_hd_priority_summary">Gibt an, ob standardmäßig der Dual-Channel-Modus für den SBC-Codec verwendet werden soll</string>
+
 </resources>
