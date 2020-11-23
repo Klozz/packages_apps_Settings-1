@@ -390,4 +390,8 @@
 
     <!-- Min refresh rate -->
     <string name="min_refresh_rate_title">Refresh rate</string>
+
+    <!-- Experimental theme options -->
+    <string name="exp_theme_customization_title">Experimental</string>
+    <string name="exp_theme_customization_summary">Just dont use it</string>
 </resources>

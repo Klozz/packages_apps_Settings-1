@@ -386,4 +386,8 @@
     <!-- Min refresh rate -->
     <string name="min_refresh_rate_title">Bildwiederholfrequenz</string>
 
+    <!-- Experimental theme options -->
+    <string name="exp_theme_customization_title">Experimentell</string>
+    <string name="exp_theme_customization_summary">Einfach nicht benutzen</string>
+
 </resources>
