@@ -379,6 +379,6 @@
     <string name="dialog_delete_title">Entfernen</string>
 
     <!-- Min refresh rate -->
-    <string name="min_refresh_rate_title">Minimale Bildwiederholfrequenz</string>
+    <string name="min_refresh_rate_title">Bildwiederholfrequenz</string>
 
 </resources>
